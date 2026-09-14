@@ -1,5 +1,5 @@
 {
-  "revision": "20260908T044811Z",
+  "revision": "20260914T101724Z",
   "imgs": {
     "diyin": "imgs/diyin.png",
     "guaiguai": "imgs/guaiguai.png",
@@ -15,7 +15,6 @@
     "male_qingnian": "imgs/male_qingnian.png",
     "male_qingnian_shouruo": "imgs/male_qingnian_shouruo.png",
     "male_yansang": "imgs/male_yansang.png",
-    "manbo": "imgs/manbo.png",
     "nv_beijixing": "imgs/nv_beijixing.png",
     "nv_caomei": "imgs/nv_caomei.png",
     "nv_oi": "imgs/nv_oi.png",
